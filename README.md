@@ -1,6 +1,6 @@
 # Siddharth Asthana - Personal Website
 
-This is my personal website, designed and implemented as part of [CS50W's Project 0](https://docs.cs50.net/web/2020/x/projects/0/project0.html) in July 2019.
+This is my personal website, designed and implemented as part of Personal Project
 
 The website contains my CV, and programming experience. The website is written in HTML with CSS / SCSS styling. A small amount of JavaScript is used to generate a pop-up when a button is activated (Programming page).
 
