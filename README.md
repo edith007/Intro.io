@@ -1,6 +1,6 @@
 # Siddharth Asthana - Personal Website
 
-This is my personal website, designed and implemented as part of Personal Project
+This is my personal website, designed and implemented as part of Personal Project.
 
 The website contains my CV, and programming experience. The website is written in HTML with CSS / SCSS styling. A small amount of JavaScript is used to generate a pop-up when a button is activated (Programming page).
 
@@ -12,7 +12,7 @@ The website is composed of 3 `.html` pages (Index (i.e. a homepage), CV, and Pro
 
 ## Specifications:
 
-The website complies with all of the [CS50W Project 0 requirements](https://docs.cs50.net/web/2020/x/projects/0/project0.html), containing 3 `.html` pages, Bootstrap 4, SCSS nesting, etc. The website is also responsive i.e. it can be viewed on multiple devices with various screen sizes, adjusting content as appropriate.
+The website containing 3 `.html` pages, Bootstrap 4, SCSS nesting, etc. The website is also responsive i.e. it can be viewed on multiple devices with various screen sizes, adjusting content as appropriate.
 
 ## References:
 
