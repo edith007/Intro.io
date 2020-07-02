@@ -4,7 +4,7 @@ This is my personal website, designed and implemented as part of Personal Projec
 
 The website contains my CV, and programming experience. The website is written in HTML with CSS / SCSS styling. A small amount of JavaScript is used to generate a pop-up when a button is activated (Programming page).
 
-![Screenshot of website homepage.](https://i.imgur.com/rNeoxhn.png)
+![Screenshot of website homepage.](https://i.imgur.com/ILj7Ouj.png)
 
 ## Website Files:
 
